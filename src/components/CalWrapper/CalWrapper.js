@@ -6,7 +6,7 @@ const CalWrapper = (props) => {
     return <Button btName={btObj.value} btFun={btObj.btFun} />;
   });
 
-  console.log("allButton", allButton);
+    console.log("allButton", allButton);
 
   return <div>{allButton}</div>;
 };
