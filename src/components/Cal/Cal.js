@@ -30,7 +30,7 @@ const Cal = () => {
   return (
     <div>
       <p>This is Cal js</p>
-      <CalWrapper allBtArr={allBtArr} />
+          <CalWrapper allBtArr={allBtArr} />
     </div>
   );
 };
