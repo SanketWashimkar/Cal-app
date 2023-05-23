@@ -4,7 +4,7 @@ const Button = (props) => {
 
   const { btName, btFun } = props;
 
-  // const btClick = () =>{
+    // const btClick = () =>{
 
   //   console.log('porps value', props)
   // }
