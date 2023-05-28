@@ -16,7 +16,7 @@ const CalWrapper = (props) => {
     
 
     return (
-        <div className="main-cal">
+        <div  className="main-cal">
         
         <div className="bt-name">
         {allButton}
