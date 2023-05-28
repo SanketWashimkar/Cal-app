@@ -1,19 +1,23 @@
-.main-cal {
-  
+.bt-name{
+ 
+        display: flex;
+        justify-content: center;
+     
+     
+
 }
 
-.bt-name {
-  display: flex;
-  flex-direction: row;
-  width: 200px;
-  height: 50px;
-  justify-content: space-around;
+.op-name{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+ 
+
 }
 
-.op-name {
-  display: flex;
-  flex-direction: row;
-  width: 200px;
-  height: 50px;
-  justify-content: space-around;
-}
+
+
+
+
+
